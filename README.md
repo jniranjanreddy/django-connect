@@ -24,3 +24,4 @@ nodename: chop-rh8-01.jnrit.com
 machine: x86_64
 clock source: unix ...
 ```
+![image](https://github.com/jniranjanreddy/django-connect/assets/83489863/9d842605-bbfe-4d14-bb27-45b9384ba801)
