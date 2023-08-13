@@ -1,6 +1,10 @@
 ## Working with uwsgi
 ### Authenticate Django App with Azure AD - https://www.youtube.com/watch?v=cy7Xk35iiGc
 ```
+pip install django-auth-adfs
+pip install django
+django-admin startproject azurelogin .
+python manage.py startapp app
 pip install python-dotenv
 to use the variables
 import os
