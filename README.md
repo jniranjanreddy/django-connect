@@ -1,4 +1,7 @@
 ## Working with uwsgi
+### Authenticate Django App with Azure AD - https://www.youtube.com/watch?v=cy7Xk35iiGc
+
+
 ```
 yum groupinstall "Development Tools"
 sudo yum install python3-devel
