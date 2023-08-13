@@ -1,6 +1,18 @@
 ## Working with uwsgi
 ### Authenticate Django App with Azure AD - https://www.youtube.com/watch?v=cy7Xk35iiGc
+```
+pip install python-dotenv
+to use the variables
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
+client_id = os.getenv('client_id')
+client_secret = os.getenv('client_secret')
+tenant_id = os.getenv('tenant_id')
+
+
+```
 
 ```
 yum groupinstall "Development Tools"
