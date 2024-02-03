@@ -1,4 +1,5 @@
 ## Working with uwsgi
+
 ### Authenticate Django App with Azure AD - https://www.youtube.com/watch?v=cy7Xk35iiGc
 ```
 pip install django-auth-adfs
@@ -43,6 +44,13 @@ nodename: chop-rh8-01.jnrit.com
 machine: x86_64
 clock source: unix ...
 ```
+![image](https://github.com/jniranjanreddy/django-connect/assets/83489863/a1f7c69f-db41-40b7-bd90-1e72f00ff890)
+
 ![image](https://github.com/jniranjanreddy/django-connect/assets/83489863/9d842605-bbfe-4d14-bb27-45b9384ba801)
 ![image](https://github.com/jniranjanreddy/django-connect/assets/83489863/3c11d044-4696-4f58-b3a5-b7adc30b8abd)
+![image](https://github.com/jniranjanreddy/django-connect/assets/83489863/bd5f9ee5-63c5-4e8d-861f-ebe9edd73bc8)
 
+![image](https://github.com/jniranjanreddy/django-connect/assets/83489863/ec32c1e0-966d-4e9a-8d6d-665ca955d869)
+
+
+![image](https://github.com/jniranjanreddy/django-connect/assets/83489863/3e5178eb-9562-4ad0-bca6-abfe2dfc554c)
